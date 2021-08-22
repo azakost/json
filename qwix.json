@@ -4,5 +4,6 @@
     "latestAppVersion": "1.1",
     "iosAppID": "",
     "androidAppID": "kz.azakost.qwix",
-    "forceUpdate": false
+    "forceUpdate": false,
+    "refillLimit": 500
 }
