@@ -1,5 +1,5 @@
 {
-    "baseURL": "https://qwix.kz",
+    "baseURL": "https://qwix.kz/api/v1",
     "instructionVideoUrl": "",
     "latestAppVersion": "1.0",
     "iosAppID": "",
