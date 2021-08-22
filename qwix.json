@@ -1,8 +1,8 @@
 {
     "baseURL": "https://qwix.kz/api/v1",
-    "instructionVideoUrl": "",
+    "instructionVideoUrl": "https://www.youtube.com/watch?v=BwxQKlrSu48",
     "latestAppVersion": "1.0",
     "iosAppID": "",
-    "androidAppID": "",
+    "androidAppID": "kz.azakost.qwix",
     "forceUpdate": false
 }
