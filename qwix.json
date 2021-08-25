@@ -6,5 +6,5 @@
     "androidAppID": "kz.azakost.qwix",
     "forceUpdate": false,
     "refillLimit": 600,
-    "enableKaspi": false
+    "enableKaspi": true
 }
