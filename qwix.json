@@ -5,7 +5,7 @@
     "iosAppID": "",
     "androidAppID": "kz.azakost.qwix",
     "forceUpdate": false,
-    "refillLimit": 600,
-    "enableKaspi": true,
+    "refillLimit": 500,
+    "enableKaspi": false,
     "kaspiLink": "https://kaspi.kz/pay/other/Delivery/Tastamat?startedFrom=categories&amount="
 }
