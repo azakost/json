@@ -2,7 +2,7 @@
     "baseURL": "https://qwix.kz/api/v1",
     "instructionVideoUrl": "https://www.youtube.com/watch?v=BwxQKlrSu48",
     "latestAppVersion": "22",
-    "iosAppID": "",
+    "iosAppID": "1585165490",
     "androidAppID": "kz.azakost.qwix",
     "forceUpdate": false,
     "refillLimit": 500,
